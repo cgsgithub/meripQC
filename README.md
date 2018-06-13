@@ -1,5 +1,4 @@
 # meripQC
-Benchmarking for MeRIP-seq data analysis
 
 <p align="justify">It is a python package used to Benchmark the MeRIP-seq data.</p>
 
